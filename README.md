@@ -7,3 +7,5 @@ Quad Tree implementation in C
 By -Manuel Medina Marais-
 
 Epitech Lille promo 2024
+
+![](picture_playing.png)
