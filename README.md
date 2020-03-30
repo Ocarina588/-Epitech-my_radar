@@ -2,6 +2,8 @@
 
 This project work on linux and use the csfml library
 
+compilation by Makefile
+
 Quad Tree implementation in C
 
 By -Manuel Medina Marais-
