@@ -1,4 +1,4 @@
-# -Epitech-my_radar
+# Quad Tree Planes Collision
 
 This project work on linux and use the csfml library
 
